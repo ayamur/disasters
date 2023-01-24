@@ -1,6 +1,6 @@
+import Element from "./Element";
 
-
-const Element = (props) => {
+const NatDisaster = (props) => {
   return ( 
     <>
     <div>{props.name}
@@ -9,4 +9,4 @@ const Element = (props) => {
    );
 }
  
-export default Element;
+export default NatDisaster;
