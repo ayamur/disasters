@@ -38,12 +38,12 @@
 }
 
 Body {
-  background-color: #282c34
+  background-color: #282c34;
 }
 
-div {;
+div {
   color: white;
-  border: 3px dotted darkgreen;
+  border: 3px dotted darkcyan;
   margin: 5px;
   padding: 5px;
 }

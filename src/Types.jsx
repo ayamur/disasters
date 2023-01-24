@@ -1,9 +1,9 @@
 const Types = (props) => {
-  return ( 
+  return (
     <div>
       {props.name}
     </div>
-   );
+  );
 }
- 
+
 export default Types;

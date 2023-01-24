@@ -4,7 +4,7 @@ import NatDisaster from './NatDisasters';
 function App() {
   return (
     <div>
-      <NatDisaster name='Natural Disasters List'/>
+      <NatDisaster name='Natural Disasters List' />
     </div>
   );
 }
