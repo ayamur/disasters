@@ -1,6 +1,4 @@
-
-
-const Element = (props) => {
+const Types = (props) => {
   return ( 
     <div>
       {props.name}
@@ -8,4 +6,4 @@ const Element = (props) => {
    );
 }
  
-export default Element;
+export default Types;
